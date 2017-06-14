@@ -1,0 +1,7 @@
+13:44:25 **** Clean-only build of configuration Debug for project AbstractFactory ****
+make clean 
+rm -rf  ./src/AbstractFactory.o ./src/Main.o ./src/Product.o  ./src/AbstractFactory.d ./src/Main.d ./src/Product.d  AbstractFactory
+ 
+
+13:44:25 Build Finished (took 95ms)
+

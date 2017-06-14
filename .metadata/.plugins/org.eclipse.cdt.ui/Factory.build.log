@@ -1,0 +1,7 @@
+16:17:37 **** Clean-only build of configuration Debug for project Factory ****
+make clean 
+rm -rf  ./src/IHuman.o ./src/IHumanFactory.o ./src/Main.o  ./src/IHuman.d ./src/IHumanFactory.d ./src/Main.d  Factory
+ 
+
+16:17:37 Build Finished (took 67ms)
+

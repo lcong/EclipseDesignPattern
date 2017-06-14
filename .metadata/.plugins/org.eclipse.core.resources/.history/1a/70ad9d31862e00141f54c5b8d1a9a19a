@@ -1,0 +1,20 @@
+/*
+ * IHumanFactory.cpp
+ *
+ *  Created on: Aug 28, 2014
+ *      Author: lcong
+ */
+
+#include "IHumanFactory.h"
+
+OpreationFactory:OpreationFactory()
+{
+
+}
+
+OpreationFactory:~OpreationFactory()
+{
+
+}
+
+

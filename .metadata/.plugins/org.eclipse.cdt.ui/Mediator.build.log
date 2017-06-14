@@ -1,0 +1,7 @@
+13:44:26 **** Clean-only build of configuration Debug for project Mediator ****
+make clean 
+rm -rf  ./src/Colleage.o ./src/Main.o ./src/Mediator.o  ./src/Colleage.d ./src/Main.d ./src/Mediator.d  Mediator
+ 
+
+13:44:26 Build Finished (took 98ms)
+

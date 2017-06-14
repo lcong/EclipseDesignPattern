@@ -1,0 +1,25 @@
+/*
+ * IHumanFactory.h
+ *
+ *  Created on: Aug 26, 2014
+ *      Author: lcong
+ */
+
+#ifndef IHUMANFACTORY_H_
+#define IHUMANFACTORY_H_
+
+#include "Factory.h"
+class IHumanFactory
+{
+public:
+	IHumanFactory(void)
+	{
+	};
+	virtual ~IHumanFactory(void)
+	{
+	};
+	virtual IHuman * CreateHuman(int HumanType);
+};
+
+
+#endif /* IHUMANFACTORY_H_ */

@@ -1,0 +1,21 @@
+/*
+ * Main.cpp
+ *
+ *  Created on: Aug 28, 2014
+ *      Author: lcong
+ */
+
+
+#include <iostream>
+using namespace std;
+
+int main(int argc, char* argv[])
+{
+	//工厂方法
+	cout << "----------工厂方法：" << endl;
+	DoFactoryMethod1();
+	DoFactoryMethod2();
+	DoFactoryMethod3();
+
+	return 0;
+}

@@ -1,0 +1,7 @@
+13:44:26 **** Clean-only build of configuration Debug for project FactoryMethod ****
+make clean 
+rm -rf  ./src/Human.o ./src/HumanFactory.o ./src/Main.o  ./src/Human.d ./src/HumanFactory.d ./src/Main.d  FactoryMethod
+ 
+
+13:44:26 Build Finished (took 83ms)
+

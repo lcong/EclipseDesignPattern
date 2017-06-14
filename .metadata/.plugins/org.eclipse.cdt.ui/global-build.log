@@ -1,0 +1,52 @@
+16:38:33 **** Incremental Build of configuration Debug for project Flyweight ****
+make all 
+Building file: ../src/FlyweightFactory.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/FlyweightFactory.d" -MT"src/FlyweightFactory.d" -o "src/FlyweightFactory.o" "../src/FlyweightFactory.cpp"
+Finished building: ../src/FlyweightFactory.cpp
+ 
+Building target: Flyweight
+Invoking: GCC C++ Linker
+g++  -o "Flyweight"  ./src/Flyweight.o ./src/FlyweightFactory.o ./src/Main.o   
+Finished building target: Flyweight
+ 
+16:38:35 **** Incremental Build of configuration Debug for project Flyweight ****
+make all 
+make: Nothing to be done for `all'.
+10:18:03 **** Build of configuration Debug for project State ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.d" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building file: ../src/State.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/State.d" -MT"src/State.d" -o "src/State.o" "../src/State.cpp"
+Finished building: ../src/State.cpp
+ 
+Building target: State
+Invoking: GCC C++ Linker
+g++  -o "State"  ./src/Main.o ./src/State.o   
+Finished building target: State
+ 
+10:28:21 **** Build of configuration Debug for project Template ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.d" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building file: ../src/Template.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Template.d" -MT"src/Template.d" -o "src/Template.o" "../src/Template.cpp"
+Finished building: ../src/Template.cpp
+ 
+Building target: Template
+Invoking: GCC C++ Linker
+g++  -o "Template"  ./src/Main.o ./src/Template.o   
+Finished building target: Template
+ 
+10:28:41 **** Incremental Build of configuration Debug for project Template ****
+make all 
+make: Nothing to be done for `all'.

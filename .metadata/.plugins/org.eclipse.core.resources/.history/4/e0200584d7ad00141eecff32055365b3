@@ -1,0 +1,15 @@
+/*
+ * FlyweightFactory.h
+ *
+ *  Created on: Feb 6, 2015
+ *      Author: lcong
+ */
+
+#ifndef FLYWEIGHTFACTORY_H_
+#define FLYWEIGHTFACTORY_H_
+
+
+
+
+
+#endif /* FLYWEIGHTFACTORY_H_ */

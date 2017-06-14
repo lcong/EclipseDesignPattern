@@ -1,0 +1,7 @@
+13:44:26 **** Clean-only build of configuration Debug for project Memento ****
+make clean 
+rm -rf  ./src/Main.o ./src/Memento.o  ./src/Main.d ./src/Memento.d  Memento
+ 
+
+13:44:26 Build Finished (took 84ms)
+

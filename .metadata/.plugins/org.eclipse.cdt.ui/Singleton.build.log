@@ -1,0 +1,7 @@
+13:44:26 **** Clean-only build of configuration Debug for project Singleton ****
+make clean 
+rm -rf  ./src/Main.o ./src/Singleton.o  ./src/Main.d ./src/Singleton.d  Singleton
+ 
+
+13:44:26 Build Finished (took 76ms)
+

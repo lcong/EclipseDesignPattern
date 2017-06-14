@@ -1,0 +1,7 @@
+13:44:26 **** Clean-only build of configuration Debug for project Decorator ****
+make clean 
+rm -rf  ./src/Decorator.o ./src/Main.o  ./src/Decorator.d ./src/Main.d  Decorator
+ 
+
+13:44:26 Build Finished (took 87ms)
+
